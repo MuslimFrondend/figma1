@@ -1,0 +1,97 @@
+body{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: center; */
+    width: 100hv;
+    height: 1920px;
+    background:  linear-gradient(180deg, rgb(188, 193, 255), rgb(254, 254, 254));
+}
+
+.boshi1{
+    display: flex;
+    flex-direction: row;
+    align-items: first baseline;
+    background-color: rgb(156, 80, 80);
+    width: 1895px;
+    height: 950px;
+  
+}
+.tepa_qismi{
+    width: 1895px;
+    height: 130px;
+    background-color: blueviolet;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 600px;
+
+}
+.tepa_chap{
+    width: 631px;
+    height: 130px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+/* h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #4A99D3;
+    font-size: 20px;
+} */
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 130px;
+}
+.tepa_urta{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: burlywood;
+    height: 130px;
+    width: 631px;
+    margin-left: 550px;
+    margin-top: -180px;
+}
+.tepa_ong{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(202, 60, 103);
+    height: 130px;
+    width: 631px;
+    margin-left: 1260px;
+    margin-top: -130px;
+}
+a{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    margin-left: 50px;
+   
+}
+/* @keyframes a{
+    0%, 100%{
+        background: linear-gradient(blue);
+    }
+} */
+.a{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin: 10px;
+    text-decoration: none;
+    color: #4A99D3;
+}
+.yozuv{
+    margin-right: 300px;
+}
